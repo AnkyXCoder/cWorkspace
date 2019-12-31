@@ -4,7 +4,7 @@
 
 int main() {
 
-	__int32_t num1, num2;
+	int num1, num2;
 	printf("Enter 2 numbers separated by a space: \n");
 	scanf ("%d %d", &num1, &num2);
 	
